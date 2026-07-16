@@ -1,2 +1,5 @@
-# ai-sdk-fullstack-skill-vault
-Model-agnostic AI SDK + Full-Stack Developer Skill Vault with Universal Eval Harness and Coding Mastery Router
+# AI SDK Full-Stack Skill Vault
+
+Universal Coding Mastery Router + Eval Harness included.
+
+See files for full details.
